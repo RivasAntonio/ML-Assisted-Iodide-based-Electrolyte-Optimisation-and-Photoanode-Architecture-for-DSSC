@@ -1,6 +1,6 @@
-# Engineering Photoanode Architecture and Machine Learning-Assisted Optimization of Iodide-based Electrolytes for Efficient Indoor Dye-Sensitized Solar Cells
+# Machine Learning-Assisted Optimization of Iodide Electrolytes for Efficient Indoor Dye-Sensitized Solar Cells with Engineered Photoanodes
 
-This repository contains the computational notebook and the primary dataset accompanying the research article *"Engineering Photoanode Architecture and Machine Learning-Assisted Optimization of Iodide-based Electrolytes for Efficient Indoor Dye-Sensitized Solar Cells"*. It provides the necessary resources to reproduce the machine learning-assisted Bayesian optimisation workflows utilised in the study.
+This repository contains the computational notebook and the primary dataset accompanying the research article *"Machine Learning-Assisted Optimization of Iodide Electrolytes for Efficient Indoor Dye-Sensitized Solar Cells with Engineered Photoanodes"*. It provides the necessary resources to reproduce the machine learning-assisted Bayesian optimisation workflows utilised in the study.
 
 ## Repository Contents
 
